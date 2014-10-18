@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Artificial Reality</title>
+	<founding-date>August 12, 2014</founding-date>
+	<website></website>
+	<based-in>Cape Town, South Africa</based-in>
+	
+	<press-contact>ray929@gmail.com</press-contact>
+	<phone>+27 73 290 7979</phone>
+	<address>
+		<line></line>
+	</address>
+
+	<socials>
+		<social>
+			<name></name>
+			<link></link>
+		</social>
+	</socials>
+
+	<description>	
+		We make fun things.
+	</description>
+		
+	<histories>
+		<history>
+			<header>Early history</header>
+			<text>We started as a group that does things... sometimes</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name></name>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>None, obviously</description>
+			<info></info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description></description>
+			<name></name>
+			<website></website>
+			<link></link>
+		</quote>
+	</quotes>
+	
+	<press-can-request-copy>FALSE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>false</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+		<additional>
+			<title></title>
+			<description></description>
+			<link></link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person></person>
+			<role></role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>ray929@gmail.com</mail>
+		</contact>
+	</contacts>
+</game>

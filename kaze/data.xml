@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>空神のカザ ~Kaze of the Sky Lord~</title>
+	<release-date>16 October, 2014</release-date>
+	<website></website>
+	<press-can-request-copy>FALSE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>PC / Mac</name>
+			<link></link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>Free</currency>
+			<value>obviously</value>
+		</price>
+	</prices>
+
+	<description>
+	The player takes control of a Glider (specialised small plane) and attempt to shoot down the enemies in his way throughout various levels. As the player complete levels, more will become available. The player will be able to upgrade his Glider in a multitude of ways as enemies become more powerful. Each level will house a level boss and the level will only be cleared after this boss is defeated. Levels will be replayable, with scores for each level being recorded to a high score leaderboard (not available as of yet). The only level currently available is the test level with one type of enemy and one ammo pickup.
+	</description>
+	
+	<history>
+	This was compiled as part of an assignment for a Introduction to Game Development course at UCT. This was develeped on and off whilst juggling the workload of my actual major. I'm hoping to spend more time on this after the course is finished. Updates will be released as thet are finished.
+	</history>
+
+	<features>
+		<feature>The player is required to kill 5 enemies to clear the test level. This is kept track of by a "score" at the bottom right of the screen.</feature>
+		<feature>There are randomly spawned pickup icons throughout the game to increase available missiles (special ammo) available. Max 3.</feature>
+		<feature>Balloons are randomly generated to serve as obstacles for the player to dodge as well as for the AI to navigate later on.</feature>
+		<feature>The enemy moves towards the direction of the player and shoots a limited amount of times every few seconds. This will be updated with other patterns as AI is developed.</feature>
+		
+		<feature>Smaller Feature: Main Menu Screen</feature>
+		<feature>Smaller Feature: Health Bar</feature>
+		<feature>Smaller Feature: Scrolling Background</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name></name>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>Maybe I'll self award myself for eventually finishing this (笑).</description>
+			<info>TBA</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>Please enjoy what is available so far.</description>
+			<name>The Dev'er</name>
+			<website></website>
+			<link></link>
+		</quote>
+	</quotes>
+	
+	<additionals>
+		<additional>
+			<title></title>
+			<description></description>
+			<link></link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Dylan Thomson</person>
+			<website></website>
+			<role>Business &amp; Game Designer, Developer</role>
+		</credit>
+		<credit>
+			<person>gameart.org</person>
+			<role>Temp sprite art</role>
+		</credit>
+	</credits>
+</game>
